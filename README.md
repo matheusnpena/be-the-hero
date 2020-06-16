@@ -21,3 +21,11 @@ conferencia de documentos (PF);As informações constantes da ficha-proposta, be
 conferencia de documentos (PF);É proibida a abertura de conta sob nome abreviado ou de qualquer forma alterado, inclusive mediante supressão de parte ou partes do nome do depositante;Art. 5°;;
 Obrigatoriadade ficha-proposta;A instituição financeira deve manter cartão com autógrafos atualizados do depositante, podendo a ficha-proposta de conta de depósitos à vista servir para este fim;Art. 11°;;
 ;;;;
+
+https://blog.idwall.co/open-banking-regulamentado-circular-4015/
+
+https://blog.idwall.co/open-banking-cenario-atual-expectativas/?utm_source=google&utm_medium=blog&utm_campaign=rastreamento_posts_blog&utm_term=open%20banking&utm_content=https%3A%2F%2Fblog.idwall.co%2Fopen-banking-regulamentado-circular-4015
+
+https://blog.idwall.co/open-banking-diretrizes-bacen/?utm_source=google&utm_medium=blog&utm_campaign=rastreamento_posts_blog&utm_term=open%20banking&utm_content=http%3A%2F%2Fblog.idwall.co%2Fopen-banking-cenario-atual-expectativas
+
+https://blog.idwall.co/desafios-protecao-de-dados-pessoais-lgpd/?utm_source=google&utm_medium=blog&utm_campaign=rastreamento_posts_blog&utm_term=open%20banking&utm_content=http%3A%2F%2Fblog.idwall.co%2Fopen-banking-diretrizes-bacen
