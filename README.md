@@ -1,19 +1,41 @@
-Obrigatoriadade ficha-proposta	"O contrato de prestação de serviços de conta de depósitos deverá dispor,
-no mínimo, sobre os procedimentos para identificação e qualificação dos titulares da conta"	-	Art. 4°
-Obrigatoriadade bacen juridico	Os critérios para a definição das informações necessárias à identificação e à qualificação dos titulares da conta, bem como os procedimentos de controle adotados, devem ser formalizados em documento específico. O documento referido no caput deve ser mantido atualizado e à disposição do Banco Central do Brasil.	-	Art. 8°
+
+•	OpenEBTS The open source biometrics project.
+•	OpenBR
+
+facial landmark detection libraries -- Dlib and CLM-Framework.
+Face Recognition using Tensorflow
+
+Referências: 
+https://www.goodfirms.co/blog/best-free-open-source-face-detection-software-solutions
+
+Best Face Detection Software. Disponível em: https://www.goodfirms.co/face-detection-software/. Acesso em: 14/07/2020. 
+
+OpenBR. Disponível em: http://openbiometrics.org/. Acesso em: 14/07/2020. 
+
+OpenFace. Disponível em: https://cmusatyalab.github.io/openface/. Acesso em: 14/07/2020.
+
+https://www.dobitaobyte.com.br/reconhecimento-facial-com-opencv-e-openface/
+
+https://rapidapi.com/blog/top-facial-recognition-apis/
+
+https://core.ac.uk/reader/206682234
+
+visual control video: https://www.youtube.com/watch?v=yFSPnu6_TZY
+visual control downloads: https://code.google.com/archive/p/visual-control/downloads
+
+Sistema de autorização de entrada: https://www.youtube.com/watch?v=vUOw90eyruw
+
+Tutorial openCV. https://www.youtube.com/watch?v=-ZrDjwXZGxI 
+
+https://www.youtube.com/watch?v=L145oM2vNt8 / https://labs.dash.umn.edu/etc-lab/ive-just-seen-a-face/
+
+https://www.youtube.com/watch?v=j49RbZf_SgY / https://www.learnopencv.com/facial-landmark-detection/
 
 
+Cursos:
+https://www.udemy.com/course/deteccao-de-faces-com-python-e-opencv/
+https://www.udemy.com/course/reconhecimento-facial-com-python-e-opencv/
 
 
+https://www.youtube.com/watch?v=R3IwQldUu3c / https://github.com/trieutuanvnu/CLM-framework
 
-Tarefa;Exigência;4015;Oportunidade
-Escopo;Esta Circular disciplina o escopo de dados e serviços do Sistema Financeiro Aberto (Open Banking);Art. 1°;
-Compartilhamento de dados de cadastro dos clientes;"I identificação;
-a) informações mínimas exigidas pela regulamentação em vigor; e
-b) outras informações;";Art. 4°;
-Compartilhamento de dados de cadastro dos clientes;"II - qualificação;";Art. 4°;
-Compartilhamento de dados de cadastro dos clientes;"III - outras informações cadastrais: a) data de início de relacionamento; b) identificação de agência e conta; c) tipos de produtos e serviços com contratos vigentes; e d) poderes dos representantes.";Art. 4°;
-;;;
-;;;
-;;;
-;;;
