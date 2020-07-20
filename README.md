@@ -1,3 +1,5 @@
+https://www.knowledgenile.com/blogs/open-source-facial-recognition-software/
+
 
 •	OpenEBTS The open source biometrics project.
 •	OpenBR
