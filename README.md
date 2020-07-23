@@ -29,3 +29,6 @@ ActiveSheet.Paste
 Sheets("Planilha1").Select
 Application.CutCopyMode = False
 
+
+
+End Sub
